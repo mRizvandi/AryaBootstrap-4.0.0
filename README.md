@@ -1,20 +1,24 @@
 # AryaBootstrap
-## AryaBootstrap is a dual layout align support and, used for LTR and RTL web design.
+### AryaBootstrap is a dual layout align support and, used for LTR and RTL web design.
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
 # آریا بوت استرپ
-## با بهره گیری از کتابخانه آریا بوت استرپ، پروژه های نسخه موبایل، واکنشگرا برای وب طراحی کنید.
+### آریا بوت استرپ کتابخانه بوت استرپ دوگانه چپ چین و راست چین است
 
 </div>
 
-![AryaBootstrap | آریا بوت استرپ])(AryaBootstrap.jpg)
+![AryaBootstrap | آریا بوت استرپ])(images/AryaBootstrap.jpg)
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
+
+### با بهره گیری از کتابخانه آریا بوت استرپ، پروژه های نسخه موبایل، واکنشگرا برای وب طراحی کنید.
 
 آریا بوت استرپ، یک ابزرا *رایگان* برای توسعه وب سایت ها است که از اچ تی ام ال، استایل و جاوا اسکریپت تشکیل شده است. می توانید به سرعت نمونه اولیه یا برنامه خود را با استفاده از الگوها و نمونه های طراحی شده توسعه دهید. این نسخه از آریا بوت استرپ بر مبنای نسخه 4.0.0 بوت استرپ ایجاد شده است. بنابراین تمام قابلیتهای بوت استرپ در این کتابخانه مهیا است. 
 
 ### راه اندازی
+
+> توضیحات کامل در سایت [آریا بوت استرپ](http://abs.aryavandidad.com/fa-ir/getstarted) آمده است.
 
 راه اندازی آریا بوت استرپ به همان سادگی راه اندازی بوت استرپ است.
 
