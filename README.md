@@ -8,7 +8,7 @@
 
 </div>
 
-![AryaBootstrap | آریا بوت استرپ])(images/AryaBootstrap.jpg)
+![AryaBootstrap | آریا بوت استرپ](images/AryaBootstrap.jpg)
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
